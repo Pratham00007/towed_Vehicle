@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "969096108458",
+    "project_id": "towedvechile",
+    "storage_bucket": "towedvechile.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:969096108458:android:b233ea63b91441c4f6f3d3",
+        "android_client_info": {
+          "package_name": "com.example.towedvechile"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBQ8-NFhUX42jPIX9-d4hkndLtadlBUIq8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
